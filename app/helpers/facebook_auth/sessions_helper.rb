@@ -1,0 +1,2 @@
+module FacebookAuth::SessionsHelper
+end
