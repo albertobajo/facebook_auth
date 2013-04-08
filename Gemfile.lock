@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    facebook_auth (0.1.6)
+    facebook_auth (0.0.2)
       hashie (~> 2.0.3)
       omniauth (~> 1.1.3)
       omniauth-facebook (~> 1.4.1)
